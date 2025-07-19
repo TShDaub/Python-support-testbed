@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/TShDaub/cookiecutter-sync-test",
-  "commit": "9828cbfcf7ecc1812cc3a8c58ee68a25117d1661",
+  "commit": "e246b27af5721d98ca13ee4471dcd0ec0761b65b",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -9,7 +9,7 @@
       "author": "TShDaub",
       "email": "jtortle@pm.me",
       "_template": "https://github.com/TShDaub/cookiecutter-sync-test",
-      "_commit": "9828cbfcf7ecc1812cc3a8c58ee68a25117d1661"
+      "_commit": "e246b27af5721d98ca13ee4471dcd0ec0761b65b"
     }
   },
   "directory": null
